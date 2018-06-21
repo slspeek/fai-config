@@ -1,0 +1,190 @@
+{
+   "checksum": "d6d7cd6b9b3482008cfbcf76885304cb",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ 
+						{
+               "date_added": "13072542491095355",
+               "id": "29",
+               "name": "Adblockplus",
+               "type": "url",
+               "url": "https://adblockplus.org/"
+            },
+						{
+            "children": [ {
+               "date_added": "13072542143863427",
+               "id": "19",
+               "name": "GNUDok Vrije Software",
+               "type": "url",
+               "url": "http://gnudok.github.io/diensten-flyer/"
+            }, {
+               "date_added": "13072542094791233",
+               "id": "18",
+               "name": "Installeren met Synaptic",
+               "type": "url",
+               "url": "http://frank-jut.github.io/synaptic-handleiding/"
+            }, {
+               "date_added": "13072542164159393",
+               "id": "20",
+               "name": "Debian Wheezy Installatie",
+               "type": "url",
+               "url": "http://slspeek.github.io/installatie-debian/installatie.html"
+            }, {
+               "date_added": "13036591468689357",
+               "id": "10",
+               "name": "GNUDok online",
+               "type": "url",
+               "url": "https://sites.google.com/site/gnuwerkinstructies/voor-eindgebruikers"
+            } ],
+            "date_added": "13072542060376027",
+            "date_modified": "13072542347463512",
+            "id": "17",
+            "name": "GNUDok",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13072542476319355",
+               "id": "23",
+               "name": "Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site",
+               "type": "url",
+               "url": "https://thepiratebay.se/"
+            }, {
+               "date_added": "13072542491095355",
+               "id": "24",
+               "name": "Download Torrents. Fast and Free Torrent Downloads - KickassTorrents",
+               "type": "url",
+               "url": "http://kickass.to/"
+            }, {
+               "date_added": "13072542491095355",
+               "id": "25",
+               "name": "IT eBooks",
+               "type": "url",
+               "url": "http://it-ebooks.info/"
+            } , {
+               "date_added": "13072542491095355",
+               "id": "26",
+               "name": "Open books for an open world",
+               "type": "url",
+               "url": "https://en.wikibooks.org/"
+            }  ],
+            "date_added": "13072542450329798",
+            "date_modified": "13072542491095355",
+            "id": "22",
+            "name": "Sharing",
+            "type": "folder"
+         },  {
+            "children": [ {
+            "date_added": "13072542296183321",
+            "id": "21",
+            "name": "Debian Reference",
+            "type": "url",
+            "url": "file:///usr/share/doc/debian-reference-common/docs/index.en.html"
+						},{
+               "date_added": "13081518696084077",
+               "id": "248",
+               "name": "The Linux Documentation Project",
+               "sync_transaction_version": "98",
+               "type": "url",
+               "url": "http://www.tldp.org/index.html"
+            }, {
+               "date_added": "13081518747740018",
+               "id": "249",
+               "name": "Bash Guide for Beginners",
+               "sync_transaction_version": "101",
+               "type": "url",
+               "url": "http://www.tldp.org/LDP/Bash-Beginners-Guide/html/index.html"
+            }, {
+               "date_added": "13081518781820020",
+               "id": "250",
+               "name": "Introduction to Linux",
+               "sync_transaction_version": "104",
+               "type": "url",
+               "url": "http://www.tldp.org/LDP/intro-linux/html/index.html"
+            }, {
+               "date_added": "13081518844564068",
+               "id": "251",
+               "name": "The Linux System Administrator's Guide",
+               "sync_transaction_version": "107",
+               "type": "url",
+               "url": "http://www.tldp.org/LDP/sag/html/index.html"
+            }, {
+               "date_added": "13081518873356259",
+               "id": "252",
+               "name": "Home - Linux Professional Institute Linux Professional Institute",
+               "sync_transaction_version": "110",
+               "type": "url",
+               "url": "https://www.lpi.org/"
+            }, {
+               "date_added": "13081518998060172",
+               "id": "253",
+               "name": "IBM developerWorks : Linux Professional Institute (LPI) exam prep : Overview",
+               "sync_transaction_version": "113",
+               "type": "url",
+               "url": "http://www.ibm.com/developerworks/linux/lpi/index.html"
+            } ],
+            "date_added": "13081518686286192",
+            "date_modified": "13081518998060172",
+            "id": "247",
+            "meta_info": {
+               "stars.id": "ssf_d81cc4077c0c8f87",
+               "stars.isSynced": "true"
+            },
+            "name": "Leren",
+            "sync_transaction_version": "95",
+            "type": "folder"
+         }, {
+            "date_added": "0",
+            "id": "4",
+            "name": "Debian.org",
+            "type": "url",
+            "url": "http://www.debian.org/"
+         }, {
+            "date_added": "13036590993926967",
+            "id": "8",
+            "name": "Front Page — Free Software Foundation — working together for free software",
+            "type": "url",
+            "url": "http://www.fsf.org/"
+         }, {
+            "date_added": "13036591555645024",
+            "id": "11",
+            "name": "Piratenpartij",
+            "type": "url",
+            "url": "http://www.piratenpartij.nl/"
+         }, {
+            "date_added": "13036591829391231",
+            "id": "12",
+            "name": "thought maybe",
+            "type": "url",
+            "url": "http://thoughtmaybe.com/"
+         }, {
+            "date_added": "13072542571351247",
+            "id": "25",
+            "name": "Coursera - Free Online Courses From Top Universities",
+            "type": "url",
+            "url": "https://www.coursera.org/"
+         } ],
+         "date_added": "13036590527191190",
+         "date_modified": "13072542571351247",
+         "id": "1",
+         "name": "Bladwijzerbalk",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13036590527191228",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Andere bladwijzers",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13036590527191267",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobiele bladwijzers",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
