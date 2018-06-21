@@ -1,0 +1,8 @@
+
+PACKAGES install
+task-dutch
+
+PACKAGES install MINDESKTOP
+firefox-esr-l10n-nl
+thunderbird-l10n-nl
+task-desktop-dutch

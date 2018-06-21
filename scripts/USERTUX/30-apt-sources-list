@@ -1,0 +1,7 @@
+#! /bin/bash
+
+cp -v /var/lib/fai/config/das/sources.list /target/etc/apt/
+
+$ROOTCMD apt-get update
+$ROOTCMD apt-file update
+

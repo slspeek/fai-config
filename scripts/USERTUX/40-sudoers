@@ -1,0 +1,4 @@
+#!/bin/bash
+
+$ROOTCMD chown root:root /etc/sudoers
+$ROOTCMD chmod o=,g= /etc/sudoers

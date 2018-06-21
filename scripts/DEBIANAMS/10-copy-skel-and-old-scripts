@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cp -a /var/lib/fai/config/skel /target/etc/
+cp -a /var/lib/fai/config/das/* /target/usr/local/bin
+chmod +x /target/usr/local/bin/*.sh

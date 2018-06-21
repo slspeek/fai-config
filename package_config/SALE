@@ -1,0 +1,9 @@
+PACKAGES install 
+
+wicd
+sudo
+
+
+PACKAGES remove
+
+openssh-server

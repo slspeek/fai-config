@@ -1,0 +1,8 @@
+#!/bin/bash
+
+$ROOTCMD update-alternatives --set editor /usr/bin/vim.basic
+$ROOTCMD chown root:root /etc/sudoers
+
+$ROOTCMD debconf-set-selections  < /var/lib/fai/config/debconf/NERD
+$ROOTCMD dpkg-reconfigure -fnoninteractive console-setup
+

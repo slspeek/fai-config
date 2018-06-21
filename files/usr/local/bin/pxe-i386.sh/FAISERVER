@@ -1,0 +1,6 @@
+#!/bin/bash
+
+HOST=$1
+
+PXECONFIG=$(fai-chboot -u nfs://IPADDR/srv/fai/config -s 686-pae -IFv $HOST 2>&1|tail -1|cut -d' ' -f3)
+sed -i -e 's%/srv/fai/nfsroot%/srv/fai/nfsroot-i386%' $PXECONFIG

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+fcopy -Mi /home/mirrorer/crontab.mirrorer
+$ROOTCMD sudo -u mirrorer crontab /home/mirrorer/crontab.mirrorer
+

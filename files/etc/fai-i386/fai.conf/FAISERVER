@@ -5,4 +5,4 @@ LOGUSER=fai
 
 # URL to access the fai config space
 # If undefined, use default nfs://<install server>/$FAI_CONFIGDIR
-FAI_CONFIG_SRC=nfs://HOSTNAME/srv/fai/config
+# FAI_CONFIG_SRC=nfs://faiserver/srv/fai/config

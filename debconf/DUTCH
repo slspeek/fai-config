@@ -1,0 +1,2 @@
+locales locales/default_environment_locale select nl_NL.UTF-8
+locales locales/locales_to_be_generated multiselect nl_NL.UTF-8 UTF-8

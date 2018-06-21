@@ -1,0 +1,5 @@
+#!/bin/bash -x
+
+fai-setup -v -f
+
+fai-make-nfsroot -v -f -C/etc/fai-i386
