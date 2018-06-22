@@ -24,6 +24,9 @@ subnet 192.168.178.0 netmask 255.255.255.0 {
    }
 }
 
+# Desktop pc
+#host alexandria03 {hardware ethernet 30:5a:3a:48:4c:c7;fixed-address alexandria03;}
+
 # Oude laptop van Frank
 #host alexandria04 {hardware ethernet 00:23:8b:1c:fb:1a;fixed-address alexandria04;}
 
