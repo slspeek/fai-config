@@ -1,6 +1,8 @@
 #! /bin/bash
 
 fcopy -BvrS /etc/fai
+fcopy -BvrS /etc/fai-i386
+fcopy -vr -m root,root,755 /usr/local/bin 
 fcopy -BvS /etc/dhcp/dhcpd.conf
 
 if [ $FAI_ACTION = "install" -o $FAI_ACTION = "dirinstall" ] ; then

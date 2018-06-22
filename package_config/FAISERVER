@@ -10,4 +10,5 @@ apt-cacher-ng
 nscd psmisc
 bind9 dnsutils
 iptables-persistent
-emacs25-nox
+qemu-user-static
+vim tmux sudo nload man

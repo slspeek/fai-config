@@ -14,7 +14,9 @@ pxelinux syslinux-common # in stretch we need both
 curl wget- libpsl0-
 libicu52- # stretch only
 nmap
-emacs24-nox
+
+vim
+nload
 
 # some network cards needs firmware
 firmware-bnx2 firmware-bnx2x firmware-realtek

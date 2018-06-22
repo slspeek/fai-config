@@ -1,16 +1,6 @@
-deb http://IPADDR/debian stretch main contrib non-free
-deb http://IPADDR/debian-security stretch/updates  main contrib non-free
-deb http://IPADDR/multimedia stretch main non-free
-
 deb http://ftp.nluug.nl/pub/os/Linux/distr/debian/ stretch main contrib non-free
 deb http://deb-multimedia.org/ stretch main non-free
 deb http://security.debian.org/debian-security stretch/updates main contrib non-free
 
 # repository that may contain newer fai packages for stretch
 deb http://fai-project.org/download stretch koeln
-
-#deb http://www.backports.org/debian stretch-backports main contrib non-free
-#deb http://packages.linuxmint.com debian import
-#deb http://downloads.sourceforge.net/project/ubuntuzilla/mozilla/apt all main
-#deb http://mozilla.debian.net/ stretch-backports iceweasel-release
-

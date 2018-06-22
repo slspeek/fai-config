@@ -5,11 +5,10 @@
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 
-IPADDR	HOSTNAME
-
 192.168.178.241	alexandria01
 192.168.178.243	alexandria03
-192.168.178.244	xandria04
+192.168.178.244	alexandria04
+192.168.178.245	xandria05
 #192.168.178.100	debian01
 #192.168.178.101	nerdtop01
 #192.168.178.102	nerdtop02
