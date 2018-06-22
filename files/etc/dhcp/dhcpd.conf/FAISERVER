@@ -27,6 +27,9 @@ subnet 192.168.178.0 netmask 255.255.255.0 {
 # Oude laptop van Frank
 #host alexandria04 {hardware ethernet 00:23:8b:1c:fb:1a;fixed-address alexandria04;}
 
+# Oude Compaq p4
+#host alexandria04 {hardware ethernet 00:0f:20:27:67:a9;fixed-address alexandria04;}
+
 # Gerda PC
 #host debian01 {hardware ethernet 00:16:35:62:06:31;fixed-address debian01;}
 
