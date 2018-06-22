@@ -2,6 +2,6 @@
 
 mkdir -p /mirrors
 mount ${SERVER}:/home/mirrorer/debian-mirrors /mirrors
-rsync -av /mirrors/ $target/home/mirrorer/debian-mirrors
+rsync -a /mirrors/ $target/home/mirrorer/debian-mirrors
 $ROOTCMD chown -R mirrorer:mirrorer /home/mirrorer
 

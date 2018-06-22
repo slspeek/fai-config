@@ -1,0 +1,2 @@
+IPADDR=$(ip addr show up| grep -w inet | cut -d t -f 2 | cut -d ' ' -f 2 | cut -d / -f 1 | grep -v 127.0.0.1)
+DEFAULTGW=192.168.178.1
